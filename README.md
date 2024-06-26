@@ -6,7 +6,7 @@ To get started with GamerConnect, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Harsh-18071/GamerConnect.git
+    git clone https://github.com/Harsh-1807/GamerConnect.git
     ```
 
 2. **Move into the project directory**:
